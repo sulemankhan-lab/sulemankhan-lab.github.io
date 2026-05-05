@@ -11,7 +11,7 @@ location: "Guelph, Canada"
 | Course Info | Details |
 | :--- | :--- |
 | **Course Title** | System Analysis & Design |
-| **Course Code** | CIS*2030 |
+| **Course Code** | CIS*3750 |
 | **Position** | Graduate Teaching Assistant |
 | **Semester** | Fall 2025 |
 | **Department** | School of Computer Science |
