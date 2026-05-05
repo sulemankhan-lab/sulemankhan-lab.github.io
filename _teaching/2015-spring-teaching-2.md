@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+Course title: "System Analysis & Design"
+Position: Graduate Teaching Assistant
+Type: "Undergraduate course"
+Venue: "University of Guelph, School of Computer Science"
+Location: "Guelph, Canada"
+Semester: Winter'25
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
