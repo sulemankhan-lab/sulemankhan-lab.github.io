@@ -5,7 +5,6 @@ type: "Undergraduate course"
 venue: "University of Guelph, School of Computer Science"
 date: 2026-01-01
 location: "Guelph, Canada"
-
 ---
 
 | Course Info | Details |
